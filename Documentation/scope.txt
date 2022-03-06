@@ -1,0 +1,22 @@
+/*
+ ________________
+|pysyncDB - scope|
+|[*] A comprehensive overview of pysyncDB and its overarching scope
+|[*] A reference for included features in the latest versions
+|[*] Suggestions for future implementations
+
+pysyncDB seeks to integrate asynchronous connections at runtime to create a highly enhanced user experience.
+
+It serves as a backend environment for any python project.
+
+The main program starts a server for new clients to connect to.
+
+Each new connection will have access to all available modules, including an IDE, text editor.
+
+Python commands and examples can be brought up from the command line for quick access to snippets.
+
+pysyncDB leverages Penguin as a parser for incoming packets on the network.
+
+Specialized queries for easy access to stored data.
+
+The point of our asynchronous connections is to provide a performance based experience.
